@@ -1,8 +1,6 @@
 # TreeSystem
 
-Procedural trees for Roblox, in the Lumber Tycoon 2 style. Straight boxes, two
-levels of branching, a chunky leaf block on every twig tip. No leaning, no
-twisting, no curves.
+Procedural trees for Roblox, in the Lumber Tycoon 2 style.
 
 ```lua
 local TreeGenerator = require(ReplicatedStorage.TreeSystem.TreeGenerator)
